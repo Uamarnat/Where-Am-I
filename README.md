@@ -10,7 +10,7 @@ a map in a simulated environment.
 AMCL is a probabilistic localization system for a robot moving in 2D. It implements 
 the adaptive Monte Carlo localization (AMCL) approach, which uses a 
 particle filter to track the 
-pose of a robot against a known map[^1](http://wiki.ros.org/amcl)
+pose of a robot against a known map.
 ## Build
 Project was built and executed in Lubuntu Linux with CMake & g++/gcc, ROS and Gazebo installed.
 
