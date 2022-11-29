@@ -56,7 +56,7 @@ as the mobot moves around.
 Localized robot:
 ![Localized](https://github.com/Uamarnat/Where-Am-I/blob/main/SS1.png?raw=true)
 
-Robot Localizing:
+Robot Localizing:\
 ![Localizing gif](https://github.com/Uamarnat/Where-Am-I/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif?raw=true)
 
 
